@@ -2,7 +2,7 @@
   "name": "simonmpa.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://simonmpa.github.io/",
+  "homepage": "https://simonmpa.github.io/index",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
